@@ -1,0 +1,262 @@
+a:2:{s:6:"expire";i:1494151284;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="http://xbitzpool.com/favicon.ico" />
+  <title>XRB Pool</title>
+
+  <link href="http://xbitzpool.com/assets/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://xbitzpool.com/assets/css/font-awesome.min.css">
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="http://xbitzpool.com/assets/js/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="http://xbitzpool.com/assets/js/bootstrap.min.js"></script>
+
+  <script type="text/javascript">
+    var base_url = 'http://xbitzpool.com/';
+  </script>
+</head>
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="col-md-12">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://xbitzpool.com/">
+            <span><img alt="XRB Pool" src="http://xbitzpool.com/assets/img/logo.png" width="20" height="20" style="display: inline-block; margin-top: -5px; margin-right: 5px"></span>
+            XRB Pool
+          </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li ><a href="http://xbitzpool.com/">Home</a></li>
+            <li ><a href="http://xbitzpool.com/payouts">Payouts</a></li>
+                      	<li ><a href="http://xbitzpool.com/logs">Logs</a></li>
+                          <li class='active'><a href="http://xbitzpool.com/paylist">Paylist</a></li>
+              <li ><a href="http://xbitzpool.com/faucet">Faucet</a></li>
+              <li class="dropdown ">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://xbitzpool.com/profile">Profile</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://xbitzpool.com/logout">Logout</a></li>
+                </ul>
+              </li>
+                        </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+	<div class="col-md-12">
+		<div class="page-header">
+			<h1>NEXT DISTRIBUTION IN 5 MINUTES</h1>
+		</div>
+		<div class="alert alert-info" role="alert">
+			<p><b>Please note</b> that RaiBlocks's paylist takes time to update.</p>
+			<p>List updated every <b>5</b> minutes.</p>
+		</div>
+	</div>
+</div>
+<div class="container-fluid">
+	<div class="col-md-12">
+		<div class="row">
+			<div class="col-md-offset-3 col-md-6">
+				<table class="table">
+					<thead>
+						<tr>
+							<th class="text-center">Accounts</th>
+							<th class="text-center">Pool Claims</small></th>
+							<th class="text-center">Threshold </th>
+							<th class="text-center">Top 60</th>
+						</tr>
+					</thead>
+					<tbody style="font-size: 18px;">
+						<tr>
+							<td class="text-center">
+								21							</td>
+							<td class="text-center">
+								3,842							</td>
+							<td class="text-center">
+								2,844							</td>
+							<td class="text-center">
+								<span class="text-success">Yes <i class="fa fa-check" aria-hidden="true"></i></span>							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<div class="panel-title">
+					Claims
+				</div>
+			</div>
+			<div class="panel-body">
+
+				<table class="table">
+					<thead>
+						<tr>
+							<th class="text-right" width="80">#</th>
+							<th class="text-left">Account</th>
+							<th class="text-right" width="200">Claims</th>
+															<th class="text-right" width="200">Mrai (XRB)</th>
+														</tr>
+					</thead>
+					<tbody style="font-size: 18px;">
+															<tr >
+										<td class="text-right">1.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3qrpy6w17zbdti3exr4k9uuo4s76emquob71gr8iujtwacz8yrq4dg6jm4rn" target="_blank">Mr.Helsing</a></td>
+										<td class="text-right">639</td>
+																					<td class="text-right">24</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">2.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3m9t35cxb97ua6bzznreddrgcqznba36uinnu45cz4dxosa7g6onxj54cskx" target="_blank">Roy himura</a></td>
+										<td class="text-right">554</td>
+																					<td class="text-right">21</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">3.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3x866j41zn7r69ntkgjosrym5ny3pzjnskrws5p1fendifjbuwd14wzjdzw4" target="_blank">A Sofyan</a></td>
+										<td class="text-right">318</td>
+																					<td class="text-right">12</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">4.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3zzfetd9yzztzus6nskm4xf651qpoq9wf1i4wkyc4dtmo9dp7n5qu46t4m35" target="_blank">Chandan Kumar</a></td>
+										<td class="text-right">290</td>
+																					<td class="text-right">11</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">5.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_38wh4ng1k686oyhpq9zracxbgbjuwx4kfd38mckhdegm79nsgjqnzzsbi5uk" target="_blank">ini ONO KUCRUT</a></td>
+										<td class="text-right">255</td>
+																					<td class="text-right">10</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">6.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3s63afgy1ff9j3k53kh9hwo49r8babh35i1g7zrs7hucxsju19t8o56isar8" target="_blank">sohib.hd</a></td>
+										<td class="text-right">250</td>
+																					<td class="text-right">9</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">7.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3kzqi6j81z6axqw5kaogpd1oe6ycwth1px3yecek8nsoc1tkmbpynrc5w1jt" target="_blank">Fakhrul Anwar</a></td>
+										<td class="text-right">240</td>
+																					<td class="text-right">9</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">8.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_15pfcipzsg8sho5rzfoq1tfb5ha59437soge6dmdrdwmntqd9fzetnjxryjy" target="_blank">Nurul hidayat</a></td>
+										<td class="text-right">219</td>
+																					<td class="text-right">8</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">9.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1drw3sut4wwnrw7fdzad5an4q1sxg1cbfuopjpty4syxehbotzzk96tq5qfh" target="_blank">Riyadi</a></td>
+										<td class="text-right">177</td>
+																					<td class="text-right">7</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">10.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3kownosh83m3mr581xi3xeet3gem3pqy348yr8omczucn17h4w58zwghw6g1" target="_blank">richard ivan</a></td>
+										<td class="text-right">172</td>
+																					<td class="text-right">6</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">11.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1mn5ptpnw5ax191i6j7qd4bf6cwbxifng4mera4jsyxaurkwhrkwioedace8" target="_blank">Nisa</a></td>
+										<td class="text-right">162</td>
+																					<td class="text-right">6</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">12.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_347z8m44ekfdmupjr8ba1fcmijajows3ebwb9mhm6mofkxt4dtwho533h3wq" target="_blank">Heru setiawan</a></td>
+										<td class="text-right">107</td>
+																					<td class="text-right">4</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">13.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_14ft6wiyzaaixj9a38dzixep4i9h43qo1dnfnu48rirgr3f9nktb193h457z" target="_blank">Rudi heryadi</a></td>
+										<td class="text-right">92</td>
+																					<td class="text-right">3</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">14.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3sgq3f6k45dcxmjo9mceg7gxrfhmd98y97jnu499izopoh4g63gwdd3b5nwu" target="_blank">Abang revi</a></td>
+										<td class="text-right">65</td>
+																					<td class="text-right">2</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">15.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3x9t5qd6hjse9fenbfqmipac7z68pasiti3iqs656ppwmm1mqeem5pzra84e" target="_blank">tri budi adhaningsih</a></td>
+										<td class="text-right">48</td>
+																					<td class="text-right">2</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">16.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_16hpeumzdc5bwxmnd69w98u9rox1z1wpki6x7smh9szeu3844i5gsajjj31j" target="_blank">Usfadilla</a></td>
+										<td class="text-right">41</td>
+																					<td class="text-right">2</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">17.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1gfbfxbp61fxgmhyuehtiufrku87o5tq7gpqth9uucxj1mimyx8iw4qfn5rd" target="_blank">bondex pay</a></td>
+										<td class="text-right">18</td>
+																					<td class="text-right">1</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">18.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1wo9e47zihkbwzm4gadfagisomw9znaek4pk17tyuseo3xgnt4mmhw53z458" target="_blank">balakutak</a></td>
+										<td class="text-right">14</td>
+																					<td class="text-right">1</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">19.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1yank6fyqtq78xur5px517spn98xprqsjmn9ypnd4cdjz7yjsnd357j1wieb" target="_blank">Chisana</a></td>
+										<td class="text-right">14</td>
+																					<td class="text-right">1</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">20.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_1jyfjf1cow5owhdkzgs1a9ag911gjpjmystcj7qnn5588z5r3nq154udqfoq" target="_blank">Fajar Vardhiyan</a></td>
+										<td class="text-right">12</td>
+																					<td class="text-right">0</td>
+																				</tr>
+																		<tr >
+										<td class="text-right">21.</td>
+										<td><a href="https://raiblockscommunity.net/account/index.php?acc=xrb_3tjzo953tbhud4sgwhtjrtwcx71h9z54a3pf4ormkoi1hjrkmo7rhr7zk71p" target="_blank">Leo</a></td>
+										<td class="text-right">5</td>
+																					<td class="text-right">0</td>
+																				</tr>
+														</tbody>
+					<tfoot style="font-size: 18px;">
+						<tr>
+							<td colspan="2">&nbsp;</td>
+							<td>&nbsp;</td>
+															<td>&nbsp;</td>
+														</tr>
+						<tr class="info">
+							<td colspan="2" class="text-right">Total Claims</td>
+							<td class="text-right">3,692</td>
+															<td class="text-right">139</td>
+														</tr>
+					</tfoot>
+				</table>
+			</div>
+		</div>
+	</div>
+</div></body>
+</html>
