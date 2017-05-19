@@ -4,7 +4,6 @@ from easyraikit import *
 from flask import Flask, Response, request, jsonify
 
 app = Flask(__name__)
-auth = HTTPBasicAuth()
 rai = Rai()
 unlocked = rai.password_enter({'wallet': wallet, 'password': wallet_password})['valid']
 
